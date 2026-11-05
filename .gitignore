@@ -1,0 +1,8 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore SQL Query Prompts file
+SQL Query Prompts.txt
+
+# Ignore batch file (if needed)
+start_jupyter.bat
