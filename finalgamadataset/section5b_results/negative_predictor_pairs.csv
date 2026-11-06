@@ -1,0 +1,16 @@
+Variable_1,Variable_2,Correlation,Absolute_Correlation
+Completion_Beat_It,Completion_Played_It,-0.6822871872753553,0.6822871872753553
+Completion_Conquered_It,Completion_Played_It,-0.623908985140695,0.623908985140695
+Difficulty_Easy,Difficulty_Tough,-0.5978157809792508,0.5978157809792508
+Play Time_~12_Hours,Play Time_~60_Hours,-0.578858581349938,0.578858581349938
+Play Time_>=_80_Hours,Play Time_~12_Hours,-0.5734252370180355,0.5734252370180355
+Play Time_~40_Hours,Play Time_~8_Hours,-0.5493183324651336,0.5493183324651336
+Play Time_>=_80_Hours,Play Time_~20_Hours,-0.5476336563179374,0.5476336563179374
+Difficulty_Just_Right,Difficulty_Unforgiving,-0.539344385290056,0.539344385290056
+Completion_Beat_It,Completion_Tried_It,-0.5246658952295041,0.5246658952295041
+Play Time_~12_Hours,Play Time_~40_Hours,-0.5188950058273959,0.5188950058273959
+Difficulty_Just_Right,Difficulty_Tough,-0.5183419513409305,0.5183419513409305
+Play Time_~60_Hours,Play Time_~8_Hours,-0.4987279441563584,0.4987279441563584
+Completion_Conquered_It,Completion_Tried_It,-0.48996282653679823,0.48996282653679823
+Play Time_>=_80_Hours,Play Time_~8_Hours,-0.4739850331677842,0.4739850331677842
+Avg_Rank,Total_Sales,-0.44008363531440836,0.44008363531440836

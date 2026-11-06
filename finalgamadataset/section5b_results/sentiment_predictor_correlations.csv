@@ -1,0 +1,94 @@
+Variable_1,Variable_2,Correlation,Absolute_Correlation,Group_1,Group_2
+vader_sentiment_mean,textblob_sentiment_mean,0.6125318139912392,0.6125318139912392,Sentiment,Sentiment
+textblob_sentiment_mean,hf_sentiment_mean,0.5997715546271926,0.5997715546271926,Sentiment,Sentiment
+vader_sentiment_mean,hf_sentiment_mean,0.5741339531048221,0.5741339531048221,Sentiment,Sentiment
+metascore,textblob_sentiment_mean,0.41046619662428147,0.41046619662428147,Critic Score,Sentiment
+metascore,hf_sentiment_mean,0.3483207632589584,0.3483207632589584,Critic Score,Sentiment
+metascore,vader_sentiment_mean,0.3080414203790622,0.3080414203790622,Critic Score,Sentiment
+Completion_Tried_It,textblob_sentiment_mean,-0.24143840742585562,0.24143840742585562,Completion,Sentiment
+Completion_Tried_It,hf_sentiment_mean,-0.21174262700369492,0.21174262700369492,Completion,Sentiment
+Difficulty_Just_Right,textblob_sentiment_mean,0.20558062712805106,0.20558062712805106,Difficulty,Sentiment
+Completion_Conquered_It,hf_sentiment_mean,0.20110097425082502,0.20110097425082502,Completion,Sentiment
+Completion_Conquered_It,textblob_sentiment_mean,0.20013597672486183,0.20013597672486183,Completion,Sentiment
+Completion_Tried_It,vader_sentiment_mean,-0.19483200843873477,0.19483200843873477,Completion,Sentiment
+Play Time_~8_Hours,vader_sentiment_mean,-0.18343615867750446,0.18343615867750446,Playtime,Sentiment
+Play Time_~12_Hours,vader_sentiment_mean,-0.17799149524190971,0.17799149524190971,Playtime,Sentiment
+Difficulty_Simple,textblob_sentiment_mean,-0.17789429321169536,0.17789429321169536,Difficulty,Sentiment
+Difficulty_Easy,textblob_sentiment_mean,-0.16857756968950835,0.16857756968950835,Difficulty,Sentiment
+Play Time_~60_Hours,vader_sentiment_mean,0.16620523326647926,0.16620523326647926,Playtime,Sentiment
+Difficulty_Just_Right,vader_sentiment_mean,0.1572929778504089,0.1572929778504089,Difficulty,Sentiment
+Play Time_~4_Hours,textblob_sentiment_mean,-0.1539905427080435,0.1539905427080435,Playtime,Sentiment
+Play Time_~12_Hours,textblob_sentiment_mean,-0.14966939315359223,0.14966939315359223,Playtime,Sentiment
+Play Time_~8_Hours,textblob_sentiment_mean,-0.14879240748828715,0.14879240748828715,Playtime,Sentiment
+Difficulty_Just_Right,hf_sentiment_mean,0.14255731860228552,0.14255731860228552,Difficulty,Sentiment
+Play Time_~40_Hours,textblob_sentiment_mean,0.14069317398647674,0.14069317398647674,Playtime,Sentiment
+Play Time_>=_80_Hours,vader_sentiment_mean,0.13227870034812303,0.13227870034812303,Playtime,Sentiment
+Play Time_~40_Hours,vader_sentiment_mean,0.13179639709141355,0.13179639709141355,Playtime,Sentiment
+Play Time_~60_Hours,textblob_sentiment_mean,0.13131841844511052,0.13131841844511052,Playtime,Sentiment
+Difficulty_Unforgiving,vader_sentiment_mean,-0.1299124507233961,0.1299124507233961,Difficulty,Sentiment
+Play Time_<_1_Hour,hf_sentiment_mean,-0.1263618283109171,0.1263618283109171,Playtime,Sentiment
+critic_review_count,textblob_sentiment_mean,0.1250135519699624,0.1250135519699624,Reviews,Sentiment
+Play Time_~8_Hours,hf_sentiment_mean,-0.1236369718037257,0.1236369718037257,Playtime,Sentiment
+Completion_Played_It,hf_sentiment_mean,-0.12188350628404857,0.12188350628404857,Completion,Sentiment
+Play Time_~40_Hours,hf_sentiment_mean,0.12037948881409821,0.12037948881409821,Playtime,Sentiment
+Difficulty_Simple,hf_sentiment_mean,-0.1198642387361409,0.1198642387361409,Difficulty,Sentiment
+Completion_Conquered_It,vader_sentiment_mean,0.11768013674384967,0.11768013674384967,Completion,Sentiment
+Avg_Rank,textblob_sentiment_mean,-0.11503005204576118,0.11503005204576118,Critic Score,Sentiment
+Play Time_~2_Hours,textblob_sentiment_mean,-0.11429717119905783,0.11429717119905783,Playtime,Sentiment
+Play Time_<_1_Hour,textblob_sentiment_mean,-0.10812355827469355,0.10812355827469355,Playtime,Sentiment
+Completion_Played_It,textblob_sentiment_mean,-0.10587976824090563,0.10587976824090563,Completion,Sentiment
+Avg_Rank,hf_sentiment_mean,-0.10477792991050333,0.10477792991050333,Critic Score,Sentiment
+Play Time_~4_Hours,hf_sentiment_mean,-0.10426838150829743,0.10426838150829743,Playtime,Sentiment
+Avg_Rank,vader_sentiment_mean,-0.10387089074311469,0.10387089074311469,Critic Score,Sentiment
+JP_Sales,vader_sentiment_mean,0.09779501907533178,0.09779501907533178,Sales,Sentiment
+Play Time_~4_Hours,vader_sentiment_mean,-0.09696966305086656,0.09696966305086656,Playtime,Sentiment
+Play Time_>=_80_Hours,textblob_sentiment_mean,0.09640261508999924,0.09640261508999924,Playtime,Sentiment
+Completion_Beat_It,textblob_sentiment_mean,0.09551061054209514,0.09551061054209514,Completion,Sentiment
+Difficulty_Tough,vader_sentiment_mean,-0.09335776975317354,0.09335776975317354,Difficulty,Sentiment
+Difficulty_Easy,hf_sentiment_mean,-0.0906290103827696,0.0906290103827696,Difficulty,Sentiment
+Completion_Beat_It,hf_sentiment_mean,0.08933601141498232,0.08933601141498232,Completion,Sentiment
+Play Time_~60_Hours,hf_sentiment_mean,0.0880865929199876,0.0880865929199876,Playtime,Sentiment
+Play Time_~12_Hours,hf_sentiment_mean,-0.08755604699803864,0.08755604699803864,Playtime,Sentiment
+JP_Sales,textblob_sentiment_mean,0.08551849165428445,0.08551849165428445,Sales,Sentiment
+user_review_count,textblob_sentiment_mean,0.08303184280649652,0.08303184280649652,Reviews,Sentiment
+Total_Sales,textblob_sentiment_mean,0.07705876160280344,0.07705876160280344,Sales,Sentiment
+NA_Sales,textblob_sentiment_mean,0.07700993005331465,0.07700993005331465,Sales,Sentiment
+JP_Sales,hf_sentiment_mean,0.0758861124211595,0.0758861124211595,Sales,Sentiment
+Play Time_~20_Hours,hf_sentiment_mean,0.07394036521041646,0.07394036521041646,Playtime,Sentiment
+Difficulty_Unforgiving,textblob_sentiment_mean,-0.07336988446631036,0.07336988446631036,Difficulty,Sentiment
+Completion_Halfway,vader_sentiment_mean,0.06836570157231016,0.06836570157231016,Completion,Sentiment
+Difficulty_Unforgiving,hf_sentiment_mean,-0.06788261197199354,0.06788261197199354,Difficulty,Sentiment
+Play Time_~20_Hours,vader_sentiment_mean,-0.05963144206777251,0.05963144206777251,Playtime,Sentiment
+Play Time_~2_Hours,hf_sentiment_mean,-0.0553208438122738,0.0553208438122738,Playtime,Sentiment
+Other_Sales,textblob_sentiment_mean,0.05427059738613215,0.05427059738613215,Sales,Sentiment
+user_review_count,hf_sentiment_mean,0.05424914389764308,0.05424914389764308,Reviews,Sentiment
+EU_Sales,textblob_sentiment_mean,0.052792010594218085,0.052792010594218085,Sales,Sentiment
+Play Time_~1_Hour,hf_sentiment_mean,-0.05171974514260332,0.05171974514260332,Playtime,Sentiment
+NA_Sales,hf_sentiment_mean,0.05055101501661841,0.05055101501661841,Sales,Sentiment
+Play Time_~1_Hour,textblob_sentiment_mean,-0.050459116726973195,0.050459116726973195,Playtime,Sentiment
+platform_count,vader_sentiment_mean,-0.04985201747662806,0.04985201747662806,Other,Sentiment
+Total_Sales,hf_sentiment_mean,0.04851650325671936,0.04851650325671936,Sales,Sentiment
+critic_review_count,hf_sentiment_mean,0.04816944032747838,0.04816944032747838,Reviews,Sentiment
+Difficulty_Simple,vader_sentiment_mean,-0.0430885900589279,0.0430885900589279,Difficulty,Sentiment
+platform_count,textblob_sentiment_mean,-0.041941434593062966,0.041941434593062966,Other,Sentiment
+platform_count,hf_sentiment_mean,-0.038799720245114536,0.038799720245114536,Other,Sentiment
+Play Time_~2_Hours,vader_sentiment_mean,-0.03870856343269455,0.03870856343269455,Playtime,Sentiment
+Total_Sales,vader_sentiment_mean,0.036100294443951284,0.036100294443951284,Sales,Sentiment
+NA_Sales,vader_sentiment_mean,0.035262210264180804,0.035262210264180804,Sales,Sentiment
+Other_Sales,hf_sentiment_mean,0.030682486941675722,0.030682486941675722,Sales,Sentiment
+Play Time_~20_Hours,textblob_sentiment_mean,0.03044895255051947,0.03044895255051947,Playtime,Sentiment
+Play Time_<_1_Hour,vader_sentiment_mean,-0.029597737382796134,0.029597737382796134,Playtime,Sentiment
+EU_Sales,hf_sentiment_mean,0.023971334861604084,0.023971334861604084,Sales,Sentiment
+critic_review_count,vader_sentiment_mean,-0.021377702146289288,0.021377702146289288,Reviews,Sentiment
+user_review_count,vader_sentiment_mean,-0.018375370516940673,0.018375370516940673,Reviews,Sentiment
+Play Time_>=_80_Hours,hf_sentiment_mean,0.01773907249789717,0.01773907249789717,Playtime,Sentiment
+Completion_Halfway,hf_sentiment_mean,-0.015901592192835236,0.015901592192835236,Completion,Sentiment
+Difficulty_Tough,textblob_sentiment_mean,0.015409703169140705,0.015409703169140705,Difficulty,Sentiment
+Completion_Played_It,vader_sentiment_mean,0.014103679561326965,0.014103679561326965,Completion,Sentiment
+Play Time_~1_Hour,vader_sentiment_mean,0.013301821953748327,0.013301821953748327,Playtime,Sentiment
+Other_Sales,vader_sentiment_mean,0.012551941054902961,0.012551941054902961,Sales,Sentiment
+EU_Sales,vader_sentiment_mean,0.010299622782732776,0.010299622782732776,Sales,Sentiment
+Completion_Halfway,textblob_sentiment_mean,-0.007720317392621008,0.007720317392621008,Completion,Sentiment
+Completion_Beat_It,vader_sentiment_mean,-0.005752834698948819,0.005752834698948819,Completion,Sentiment
+Difficulty_Tough,hf_sentiment_mean,-0.0029419417873400916,0.0029419417873400916,Difficulty,Sentiment
+Difficulty_Easy,vader_sentiment_mean,-1.3888966396106713e-05,1.3888966396106713e-05,Difficulty,Sentiment
